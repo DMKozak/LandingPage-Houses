@@ -146,7 +146,7 @@
         </div>
     </main>
     <footer class="footer">
-        <div class="container"></div>
+        <div class="container">
         <a class="phone" href="tel:+75852772217">+7 (585) 277-22-17</a>
         <div class="footer__emeil">
             namename@gmail.com
