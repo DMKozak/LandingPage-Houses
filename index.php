@@ -6,10 +6,11 @@
     <meta http-equiv="X-UA-COMPATIBLE" content="ie=edge">
     <title>Document</title>
     <link rel="stylesheet" href="css/normalize.css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:300,400,700&display=swap&subset=cyrillic" rel="stylesheet">
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-    <header class="header">
+    <header class="header" style="background-image: url(/img/bg.JPG);">
         <div class="header__inner">
            <img src="img/home.png" alt="">
             <div class="header__name">
@@ -26,6 +27,7 @@
         </div>
     </header>
     <main class="main">
+        <div class="container">
         <div class="main__title">
             Строительство домов и бань из
             строганного и профилированного бруса
@@ -110,10 +112,12 @@
                     </div>
                 </div>
             </div>
+        </div>
             <div class="download">
                 <img src="img/home-download.png">
                 <a href="#">СКАЧАТЬ ВЕСЬ КАТАЛОГ ДОМОВ</a>
             </div>
+        <div class="container">
             <div class="gallery">
                 <div class="gallery__title">
                     ФОТОГРАФИИ НАШИХ РАБОТ
@@ -139,11 +143,14 @@
             <div class="main__img">
                 <img src="img/main-img.png" alt="">
             </div>
+        </div>
     </main>
     <footer class="footer">
+        <div class="container"></div>
         <a class="phone" href="tel:+75852772217">+7 (585) 277-22-17</a>
         <div class="footer__emeil">
             namename@gmail.com
+        </div>
         </div>
     </footer>
 
